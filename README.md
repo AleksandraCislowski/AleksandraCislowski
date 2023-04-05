@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraSwigon&show_icons=true&theme=algolia&hide=stars,prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraSwigon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AleksandraSwigon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraSwigon&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
