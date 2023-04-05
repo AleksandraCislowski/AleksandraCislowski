@@ -1,5 +1,5 @@
 ### Hi there 👋
-[https://giphy.com/clips/pixelart-unicorn-nyan-Ze44chcCSUpyVN1gmQ](https://media2.giphy.com/media/Ze44chcCSUpyVN1gmQ/200w.webp?cid=ecf05e475krcx2s97ncn57o52pvs0eztjea9ng6f84xrtb89&rid=200w.webp&ct=v)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fjoyousterrificeland-unicorn&psig=AOvVaw0NHJNNO2KMGaQzli4VPTWD&ust=1680810475755000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDNwYzBk_4CFQAAAAAdAAAAABAE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraSwigon&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraSwigon&show_icons=true&theme=algolia&hide=stars,prs,issues,contribs)
 
