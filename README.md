@@ -1,6 +1,6 @@
-### Hi there 👋&hide=stars,prs,issues
+### Hi there 👋
 
-![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraSwigon&show_icons=true&theme=algolia&hide=stars,prs,issues)
+![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraSwigon&show_icons=true&theme=algolia&hide=stars,prs,issues,contribs)
 
 
 
