@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraSwigon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AleksandraSwigon/AleksandraSwigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
