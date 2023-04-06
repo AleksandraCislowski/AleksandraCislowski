@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![]](https://giphy.com/clips/pixelart-unicorn-nyan-Ze44chcCSUpyVN1gmQ)
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/Ze44chcCSUpyVN1gmQ/video" width="480"></iframe></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraSwigon&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ![Aleksandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandraSwigon&show_icons=true&theme=algolia&hide=stars,prs,issues,contribs)
 
