@@ -1,4 +1,9 @@
-### Hi there 🖖
+### Hello there 🖖
+My name is Aleksandra, you can call me Alex for a shortcut. I'm self-taught front-end developer, learning is still in progress :)
+
+I like unicorns, cats, computer and board games, fantasy books and TV-series and of course Pokemons. 
+
+Welcome to my GitHub!
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRkNzcxMTRlNmE1YmVkNzg5NWVkMTExYmZlNzVjYzA4NWQzZGI1MCZjdD1n/FsogHRKZoEZLa/giphy.gif)
 <br>
