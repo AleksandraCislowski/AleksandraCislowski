@@ -6,8 +6,7 @@ I like unicorns 🦄, cats 🐱, computer 💻 and board games 🎲, fantasy boo
 Welcome to my GitHub!
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRkNzcxMTRlNmE1YmVkNzg5NWVkMTExYmZlNzVjYzA4NWQzZGI1MCZjdD1n/FsogHRKZoEZLa/giphy.gif)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraSwigon&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
