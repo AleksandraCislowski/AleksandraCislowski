@@ -1,5 +1,5 @@
 ### Hello there 🖖
-My name is Aleksandra, you can call me Alex for a shortcut. I'm self-taught front-end developer, learning is still in progress :)
+My name is Aleksandra, you can call me *Alex* for a shortcut. I'm self-taught front-end developer, learning is still in progress 😄
 
 I like unicorns 🦄, cats 🐱, computer 💻 and board games 🎲, fantasy books 📚 and TV-series 📺 and of course Pokemons 🧚‍♀️
 
