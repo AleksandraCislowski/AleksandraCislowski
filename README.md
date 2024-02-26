@@ -4,7 +4,7 @@ My name is Aleksandra, but you can call me **Alex**. I'm a self-taught front-end
 I like unicorns 🦄, cats 🐱, computer 💻 and board games 🎲, fantasy books 📚 and TV-series 📺 and of course Pokemons 🧚‍♀️
 
 
- 🔭 I’m currently working on mastering React skills!
+ 🔭 I’m currently working on mastering NextJS skills!
 
 Welcome to my GitHub!
 
