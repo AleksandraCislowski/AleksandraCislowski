@@ -1,10 +1,10 @@
 ### Hello there 🖖
-My name is Aleksandra, but you can call me **Alex**. I'm a self-taught front-end developer, learning is still in progress 😄
+My name is Aleksandra, but you can call me **Alex**. I am currently working as a Frontend Developer and Scrum Master 😄
 
 I like unicorns 🦄, cats 🐱, computer 💻 and board games 🎲, fantasy books 📚 and TV-series 📺 and of course Pokemons 🧚‍♀️
 
 
- 🔭 I’m currently working on mastering NextJS skills!
+ 🔭 I’m currently working on new side project called Wellness Panel!
 
 Welcome to my GitHub!
 
