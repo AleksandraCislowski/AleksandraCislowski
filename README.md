@@ -4,7 +4,7 @@ My name is Aleksandra, but you can call me **Alex**. I am currently working as a
 I like unicorns 🦄, cats 🐱, computer 💻 and board games 🎲, fantasy books 📚 and TV-series 📺 and of course Pokemons 🧚‍♀️
 
 
- 🔭 I’m currently working on new side project called Wellness Panel!
+ 🔭 When I'm not occupied on GitLab with projects related to my current employment, I’m coding in my free time here, on a new side project called Wellness Panel!
 
 Welcome to my GitHub!
 
