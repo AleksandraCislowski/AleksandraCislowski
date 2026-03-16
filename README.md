@@ -4,9 +4,8 @@ Frontend Developer & Scrum Master 😄
 
 ## 💡 About Me
 
-Frontend Developer and Scrum Master.
 
-From **April 2024 to March 2026** I worked mainly on company projects that are not public due to NDA on GitLab, contributing to the development of a flagship web application built with **React, Next.js, and TypeScript**.
+From **April 2024 to March 2026** I worked mainly on GitLab on project that was not public due to NDA, contributing to the development of a flagship web application built with **React, Next.js, and TypeScript**.
 
 As a **Scrum Master**, I led a team of 5 developers through **18 consecutive sprints with 100% sprint goal completion**, facilitating agile processes and improving team efficiency.
 
