@@ -3,11 +3,14 @@ Frontend Developer & Scrum Master 😄
 ---
 
 ## 💡 About Me
-Back on GitHub after contributing to private projects at GitLab (Apr 2024 – Mar 2026).  
-Led a team of 5 through **18 sprints**, building a flagship app with **React, Next.js & TypeScript**.  
-Founder of my own hybrid human services company — blending tech, leadership & problem-solving.  
 
-Currently working on my side project: **Wellness Panel** 🚀  
+Frontend Developer and Scrum Master passionate about building great user experiences and helping teams deliver successful products.
+
+From **April 2024 to March 2026** I worked mainly on company projects that are not public due to NDA on GitLab, contributing to the development of a flagship web application built with **React, Next.js, and TypeScript**.
+
+As a **Scrum Master**, I led a team of 5 developers through **18 consecutive sprints with 100% sprint goal completion**, facilitating agile processes and improving team efficiency.
+
+Now I'm back on GitHub working on new projects.
 
 ---
 
