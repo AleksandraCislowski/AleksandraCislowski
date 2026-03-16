@@ -4,7 +4,7 @@ Frontend Developer & Scrum Master 😄
 
 ## 💡 About Me
 
-Frontend Developer and Scrum Master passionate about building great user experiences and helping teams deliver successful products.
+Frontend Developer and Scrum Master.
 
 From **April 2024 to March 2026** I worked mainly on company projects that are not public due to NDA on GitLab, contributing to the development of a flagship web application built with **React, Next.js, and TypeScript**.
 
@@ -15,14 +15,14 @@ Now I'm back on GitHub working on new projects.
 ---
 
 ## ⚡ Skills
-**Frontend:** React | Next.js | TypeScript | HTML | CSS | Figma  
+**Frontend:** React | Next.js | TypeScript | HTML | CSS | Figma  | Storybook
 **Backend & DB:** Neo4j | Cypher | Docker basics  
-**Agile:** Scrum Master | Jira/Azure Boards | Sprint Planning | Retrospectives  
+**Agile:** Scrum Master | Jira/Azure Boards | Sprint Planning | Retrospectives  | Team Leader
 
 ---
 
 ## 🎯 Fun Fact
-When not coding, you’ll find me strategizing in board games or hunting rare Pokémon 🧩✨
+When not coding, you’ll find me strategizing in board games or hunting rare Pokémons 🧩✨
 I also like unicorns 🦄, cats 🐱, coding 💻, board games 🎲, and fantasy books 📚. 
 
 Welcome to my GitHub!
