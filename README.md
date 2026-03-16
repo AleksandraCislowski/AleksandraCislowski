@@ -1,10 +1,26 @@
-### Hello there 🖖
-My name is Aleksandra, but you can call me **Alex**. I am currently working as a Frontend Developer and Scrum Master 😄
+# 👋 Hi, I'm Alex!  
+Frontend Developer & Scrum Master 😄  
+---
 
-I like unicorns 🦄, cats 🐱, computer 💻 and board games 🎲, fantasy books 📚 and TV-series 📺 and of course Pokemons 🧚‍♀️
+## 💡 About Me
+Back on GitHub after contributing to private projects at GitLab (Apr 2024 – Mar 2026).  
+Led a team of 5 through **18 sprints**, building a flagship app with **React, Next.js & TypeScript**.  
+Founder of my own hybrid human services company — blending tech, leadership & problem-solving.  
 
+Currently working on my side project: **Wellness Panel** 🚀  
 
- 🔭 When I'm not occupied on GitLab with projects related to my current employment, I’m coding in my free time here, on a new side project called Wellness Panel!
+---
+
+## ⚡ Skills
+**Frontend:** React | Next.js | TypeScript | HTML | CSS | Figma  
+**Backend & DB:** Neo4j | Cypher | Docker basics  
+**Agile:** Scrum Master | Jira/Azure Boards | Sprint Planning | Retrospectives  
+
+---
+
+## 🎯 Fun Fact
+When not coding, you’ll find me strategizing in board games or hunting rare Pokémon 🧩✨
+I also like unicorns 🦄, cats 🐱, coding 💻, board games 🎲, and fantasy books 📚. 
 
 Welcome to my GitHub!
 
