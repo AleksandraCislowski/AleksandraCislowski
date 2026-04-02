@@ -21,8 +21,8 @@ Now I'm back on GitHub working on new projects.
 ---
 
 ## 🎯 Fun Fact
-When not coding, you’ll find me strategizing in board games or hunting rare Pokémons 🧩✨
-I also like unicorns 🦄, cats 🐱, coding 💻, board games 🎲, and fantasy books 📚. 
+When not coding, you’ll find me strategizing in board games or painting Warhammer minis 🧩✨
+I also like unicorns 🦄, cats 🐱, board games 🎲, and fantasy books 📚. 
 
 Welcome to my GitHub!
 
